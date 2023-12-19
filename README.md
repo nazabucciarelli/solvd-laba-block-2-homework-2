@@ -1,5 +1,5 @@
 # 2nd Homework of the Java Test Automation Course (2nd block) - Solvd Laba
-This repository stores the 1st homework given by our mentor in the 2nd block of 
+This repository stores the 2nd homework given by our mentor in the 2nd block of 
 the Java Test Automation Course at Solvd Laba. It consists in executing the
 MySQL's CRUD statements as INSERT, DELETE, UPDATE and SELECT with multiple
 ways of using the joins.
